@@ -1,9 +1,9 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-==========================================================================================================================================
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> E ai, beleza? </h1>
 
 
-My name is Abilio Bittencourt Junior. I work as a Open to Work at Grupo DSRH.
+
+My name is Abilio Bittencourt Junior. I'm a Full Stack Developer and I'm open to work, currently I work at Grupo DSRH.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=abiliobjr&repo=abiliobjr&countColorcountColor)
 
